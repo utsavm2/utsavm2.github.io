@@ -23,7 +23,7 @@ Simple barplot specification :
 <vegachart schema-url="{{ site.baseurl }}/assets/json/firstViz.json" style="width: 100%"></vegachart>
 
 Something more complex with interactivity
-<vegachart schema-url="{{ site.baseurl }}/assets/json/finteractive_legend.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_legend.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 
