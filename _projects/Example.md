@@ -13,13 +13,17 @@ custom_js:
 
 # Example including vega-lite
 
-
+Example that came with template
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 
-In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
+## From vega editor
+Simple barplot specification : 
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/firstViz.json" style="width: 100%"></vegachart>
 
+Something more complex with interactivity
+<vegachart schema-url="{{ site.baseurl }}/assets/json/finteractive_legend.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 
