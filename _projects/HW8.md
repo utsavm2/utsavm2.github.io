@@ -1,5 +1,5 @@
 ---
-name: Example
+name: HW 8
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
@@ -11,19 +11,8 @@ custom_js:
 ---
 
 
-# Example including vega-lite
+# Assignment 8 Stuff with Cars
 
-Example that came with template
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
-
-## From vega editor
-Simple barplot specification : 
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/firstViz.json" style="width: 100%"></vegachart>
-
-Something more complex with interactivity
-<vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_legend.json" style="width: 100%"></vegachart>
 
 Final Chart1 for HW8
 <vegachart schema-url="{{ site.baseurl }}/assets/json/final_chart1.json" style="width: 100%"></vegachart>
