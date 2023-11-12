@@ -25,6 +25,11 @@ Simple barplot specification :
 Something more complex with interactivity
 <vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_legend.json" style="width: 100%"></vegachart>
 
+Final Chart1 for HW8
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_chart1.json" style="width: 100%"></vegachart>
+
+Final Chart2 for HW8
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_chart2.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid --> 
 
