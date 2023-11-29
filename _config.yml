@@ -7,10 +7,10 @@
 ### Site Settings ###
 title               : Utsav Majumdar 
 description         : >-
-                      I am a student in the Industrial Engineering department in UIUC.
+                      I am a GSM intern.
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : utsavm2                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : utsavm2/utsavcv.github.io                    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,8 +34,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://source.unsplash.com/300x300/?corgi&derpy
+  name              : Utsav Majumdar
+  image             : https://media.licdn.com/dms/image/D5603AQFeEED8WJkxHg/profile-displayphoto-shrink_800_800/0/1694067526144?e=1706745600&v=beta&t=-bUaVoBNdhBp-Y2S-EsYTw52hPBvwZJwnn0tgoipWNM
 #  behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
