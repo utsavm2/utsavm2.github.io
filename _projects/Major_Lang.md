@@ -16,8 +16,11 @@ custom_js:
 
 ### Indo-European
 
+Map
 ![Indo-European](/assets/pngs/Finals/Indo-European.png)
+Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Finals/Indo-European.json" style="width: 100%"></vegachart>
+Similarity Network on 20 random languages
 ![Indo-European](/assets/pngs/Finals/Networks/Indo-European_main_network.png)
 ![Indo-European](/assets/pngs/Finals/Networks/Indo-European_community_detection.png)
 
@@ -25,8 +28,11 @@ custom_js:
 
 ### Afro-Asiatic
 
+Map
 ![Afro-Asiatic](/assets/pngs/Finals/Afro-Asiatic.png)
+Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Finals/Afro-Asiatic.json" style="width: 100%"></vegachart>
+Similarity Network on 20 random languages
 ![Afro-Asiatic](/assets/pngs/Finals/Networks/Afro-Asiatic_main_network.png)
 ![Afro-Asiatic](/assets/pngs/Finals/Networks/Afro-Asiatic_community_detection.png)
 
@@ -34,8 +40,11 @@ custom_js:
 
 ### Atlantic-Congo
 
+Map
 ![Atlantic-Congo](/assets/pngs/Finals/Atlantic-Congo.png)
+Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Finals/Atlantic-Congo.json" style="width: 100%"></vegachart>
+Similarity Network on 20 random languages
 ![Atlantic-Congo](/assets/pngs/Finals/Networks/Atlantic-Congo_main_network.png)
 ![Atlantic-Congo](/assets/pngs/Finals/Networks/Atlantic-Congo_community_detection.png)
 
@@ -43,8 +52,11 @@ custom_js:
 
 ### Austronesian
 
+Map
 ![Austronesian](/assets/pngs/Finals/Austronesian.png)
+Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Finals/Austronesian.json" style="width: 100%"></vegachart>
+Similarity Network on 20 random languages
 ![Austronesian](/assets/pngs/Finals/Networks/Austronesian_main_network.png)
 ![Austronesian](/assets/pngs/Finals/Networks/Austronesian_community_detection.png)
 
@@ -52,8 +64,11 @@ custom_js:
 
 ### Sino-Tibetan
 
+Map
 ![Sino-Tibetan](/assets/pngs/Finals/Sino-Tibetan.png)
+Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/Finals/Sino-Tibetan.json" style="width: 100%"></vegachart>
+Similarity Network on 20 random languages
 ![Sino-Tibetan](/assets/pngs/Finals/Networks/Sino-Tibetan_main_network.png)
 ![Sino-Tibetan](/assets/pngs/Finals/Networks/Sino-Tibetan_community_detection.png)
 
