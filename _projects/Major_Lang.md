@@ -14,6 +14,14 @@ custom_js:
 # Major language family distribution
 ## Created by: Aastha and Utsav
 
+A visualization that represents how major world language families are distributed. 
+The interactive chart provides insight on how vulnerable the languages are within a family.
+The networks provide an insight on how simialr the languages are and how they can be subcategorized into communities.
+At the bottom of the page, I have provided the data and the code for further analysis.
+If the code is forked, it can be used for more dynamic interactivity in Jupyter notebook using widgets.
+<br>
+<br>
+
 ### Indo-European
 
 Map
