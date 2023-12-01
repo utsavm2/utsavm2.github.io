@@ -1,7 +1,7 @@
 ---
 name: Language Family Distribution and Vulnerabilities
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/indoeurop.png
+image: assets/pngs/langmap.png
 description: This is a distribution to see how language families are distributed and their vulnerabilities to extinction.
 custom_js:
   - vega.min
